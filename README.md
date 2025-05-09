@@ -1,20 +1,38 @@
-# bandeira-cartao-credito - Credit Card Brand Detector
+# 🏦 Identificador de Bandeiras de Cartões de Crédito
 
-Este projeto é uma aplicação em Python para identificar a bandeira de um cartão de crédito com base no número informado pelo usuário.
+Este projeto em Python utiliza **expressões regulares (regex)** para identificar a bandeira de um cartão de crédito com base no seu número.
+
+🧠 Bandeiras suportadas
+
+Visa
+
+MasterCard
+
+American Express
+
+Elo
+
+Hipercard
+
+Discover
+
+Diners Club
+
+JCB
+
+Aura
+
+Cabal
+
 
 ## 🚀 Como executar
 
 ```bash
 python main.py
 
-🧠 Bandeiras suportadas
-Visa
-MasterCard
-American Express
-Elo
-Hipercard
-Discover
-Diners Club
-JCB
-Aura
-Cabal
+
+## 🚀 Como executar
+
+```bash
+python main.py
+
